@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://127.0.0.1:5432/cdp
+    username: postgres
+    password: 123456
+    driverClassName: org.postgresql.Driver
+  data:
+    mongodb:
+      host: 127.0.0.1
+      port: 27017
+      database: cdp
+      username: root
+      password: 123456
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
