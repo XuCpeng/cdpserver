@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.hikari.mysql.jdbc-url",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.hikari.mysql.jdbc-url."
+  }
+] }
