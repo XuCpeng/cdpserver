@@ -37,7 +37,6 @@ dependencies {
     // https://mvnrepository.com/artifact/org.apache.shiro/shiro-spring
     implementation group: 'org.apache.shiro', name: 'shiro-spring', version: '1.8.0'
 
-
 }
 
 test {

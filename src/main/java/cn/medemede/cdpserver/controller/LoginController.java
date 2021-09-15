@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class LoginController {
 
-    @GetMapping("/login")
+    @GetMapping("/main")
     public String login() {
         return "XCP, CDP";
     }
